@@ -1,0 +1,16 @@
+module.exports = {
+  cup: 'cup',
+  gallon: 'gal',
+  fl_ounce: 'fl-oz',
+  pint: 'pnt',
+  ounce: 'oz',
+  pound: 'lb',
+  quart: 'qt',
+  tablespoon: 'Tbs',
+  teaspoon: 'tsp',
+  gram: 'g',
+  kilogram: 'kg',
+  liter: 'l',
+  milligram: 'mg',
+  milliliter: 'ml',
+}
